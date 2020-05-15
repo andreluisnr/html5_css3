@@ -1,0 +1,22 @@
+body{
+    background: green;
+    margin-left: 20px;
+}
+
+h1 {
+    color: black;
+    font-family: fantasy;
+}
+
+h2 {
+    color: black;
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+
+}
+img {
+    margin-bottom: 20px;
+}
